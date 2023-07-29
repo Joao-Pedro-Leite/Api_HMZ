@@ -197,28 +197,6 @@ app.listen(5000, () =>{
 });
 
 
-  // const slaman = await CadastroCliente("ArcStardust" , "2345678", "Rua7", "bairro7", "cidade7","Estado7","Pais7", "Dono", 99627, "@sexmail.com")
 
-    // console.log(slaman)
-
-    // const teste = await CriarNovoContato( "2345678", "Esse também precisa ser deletado", 122345678, "uchiha@gmail.com")
-
-    // console.log(teste)
-
-    // const slaman2 = await CadastroCliente("IkkiUchiha" , "987654321", "Rua6", "bairro6", "cidade6","Estado6","Pais6", "Dono", 99627, "@sexmail.com")
-
-    // console.log(slaman2)
-
-    // const teste2 = await CriarNovoContato( "987654321", "Esse também precisa ser deletado", 122345678, "uchiha@gmail.com")
-
-    // console.log(teste2)
-
-    // const slaman3 = await CadastroCliente("DeusIza" , "69420", "Rua8", "bairro8", "cidade8","Estado8","Pais8", "Dono", 99627, "@sexmail.com")
-
-    // console.log(slaman3)
-
-    // const teste3 = await CriarNovoContato( "69420", "Esse também precisa ser deletado", 122345678, "uchiha@gmail.com")
-
-    // console.log(teste3)
 
  
