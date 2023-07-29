@@ -77,6 +77,7 @@ Funcionalidades:
 - Para as funcionalidades de cadastro, atualização e deleção de clientes e contatos, certifique-se de enviar os dados corretos no corpo da requisição em formato JSON.
 - A API utiliza os métodos HTTP POST para as operações de cadastro, atualização e deleção para garantir a segurança e evitar que essas ações sejam executadas inadvertidamente por outros métodos.
 - Para executar qualquer uma das ações acima, você pode utilizar ferramentas como Postman ou realizar as requisições HTTP em seu próprio código. Lembre-se de ajustar os dados conforme necessário, como CNPJ, ID, etc.
+- O frontEnd só funciona com as ações de cadastro para clientes, a funcinalidade para contatos não foi integrada.
 
 **Agradecimentos:**
 Agradeço novamente a oportunidade de demonstrar as funcionalidades da API. Muito Obrigado pela oportunidade de participar do processo seletivo!
